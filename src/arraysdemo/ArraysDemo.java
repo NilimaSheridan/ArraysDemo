@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class ArraysDemo {
 
-   
+   //program to demo arrays to check commit
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Enter a word");
