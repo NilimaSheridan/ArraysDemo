@@ -7,6 +7,15 @@ public class Student {
     
   private String sId;
 private String sName;
+private String address;
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
  
 public Student(String sId, String sName) {
         this.sId = sId;
