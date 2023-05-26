@@ -1,7 +1,7 @@
 
 package arraysdemo;
 
-
+//comments added for fetch and merge 2
 public class StudentList {
   public static void main(String args[]){
       Student s1 = new Student("s1","nilima");
